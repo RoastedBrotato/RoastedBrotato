@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Waleed!</h1>
-<h3 align="center">I craft digital experiences that are fast, accessible, and visually striking. I like to explore creative projects and play around with new technologies.</h3>
+<h1>Hi 👋, I'm Waleed!</h1>
+<h3>I craft digital experiences that are fast, accessible, and visually striking. I like to explore creative projects and play around with new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
