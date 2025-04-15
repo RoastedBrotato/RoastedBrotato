@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **developing a portfolio**
 - 🌱 Learning: **Rust, Go, Svelte**
-- 💬 Ask me about **React, Svelte, .NET**
+- 💬 Ask me about **what's it like being a developer with imposter syndrome haha**
 - 📫 Reach me at **waleedajaz1996@gmail.com**
 
 ---
@@ -68,11 +68,3 @@
 </p>
 
 ---
-
-### 🤝 Connect with Me
-
-<p>
-  📧 [Email me](mailto:waleedajaz1996@gmail.com)  
-  🌐 [Portfolio – Coming Soon]  
-  💼 [LinkedIn – https://www.linkedin.com/in/waleedajaz/]
-</p>
