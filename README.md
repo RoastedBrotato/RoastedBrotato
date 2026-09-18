@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 View my portfolio at **waleedajaz.com**
+- 🔭 View my [portfolio](https://www.waleedajaz.com)
 - 🌱 Learning: **Rust, Go, Svelte**
 - 💬 Ask me about **what's it like being a developer with imposter syndrome haha**
 - 📫 Reach me at **waleedajaz1996@gmail.com**
